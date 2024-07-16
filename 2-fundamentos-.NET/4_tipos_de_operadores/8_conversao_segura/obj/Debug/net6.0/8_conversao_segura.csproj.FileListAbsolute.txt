@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\8_conversao_segura\bin\Debug\net6.0\8_conversao_segura.exe
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\8_conversao_segura\bin\Debug\net6.0\8_conversao_segura.deps.json
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\8_conversao_segura\bin\Debug\net6.0\8_conversao_segura.runtimeconfig.json
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\8_conversao_segura\bin\Debug\net6.0\8_conversao_segura.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\8_conversao_segura\bin\Debug\net6.0\8_conversao_segura.pdb
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\8_conversao_segura\obj\Debug\net6.0\8_conversao_segura.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\8_conversao_segura\obj\Debug\net6.0\8_conversao_segura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\8_conversao_segura\obj\Debug\net6.0\8_conversao_segura.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\8_conversao_segura\obj\Debug\net6.0\8_conversao_segura.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\8_conversao_segura\obj\Debug\net6.0\8_conversao_segura.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\8_conversao_segura\obj\Debug\net6.0\8_conversao_segura.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\8_conversao_segura\obj\Debug\net6.0\refint\8_conversao_segura.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\8_conversao_segura\obj\Debug\net6.0\8_conversao_segura.pdb
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\8_conversao_segura\obj\Debug\net6.0\8_conversao_segura.genruntimeconfig.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\8_conversao_segura\obj\Debug\net6.0\ref\8_conversao_segura.dll

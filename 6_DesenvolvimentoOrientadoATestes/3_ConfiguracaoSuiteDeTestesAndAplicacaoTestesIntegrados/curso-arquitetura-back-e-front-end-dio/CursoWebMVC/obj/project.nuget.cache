@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "0wqZgkhQ2E3MYWuir+E05Wghgdd1kChT/GEu5tk+pGdsTxZ30HFbmMef2yONCBADl2PtKQnaN7oD54ll+Cz3UQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\DigitalOne\\11-bootcamp_wex\\6_DesenvolvimentoOrientadoATestes\\3_ConfiguracaoSuiteDeTestesAndAplicacaoTestesIntegrados\\curso-arquitetura-back-e-front-end-dio\\CursoWebMVC\\CursoWebMVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\refit\\7.0.0\\refit.7.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.net.http.json\\7.0.1\\system.net.http.json.7.0.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.text.json\\7.0.3\\system.text.json.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\3_CursoExcessoesAndColecoesC#\ExcessoesAndColecoes\bin\Debug\net6.0\ExcessoesAndColecoes.exe
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\3_CursoExcessoesAndColecoesC#\ExcessoesAndColecoes\bin\Debug\net6.0\ExcessoesAndColecoes.deps.json
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\3_CursoExcessoesAndColecoesC#\ExcessoesAndColecoes\bin\Debug\net6.0\ExcessoesAndColecoes.runtimeconfig.json
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\3_CursoExcessoesAndColecoesC#\ExcessoesAndColecoes\bin\Debug\net6.0\ExcessoesAndColecoes.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\3_CursoExcessoesAndColecoesC#\ExcessoesAndColecoes\bin\Debug\net6.0\ExcessoesAndColecoes.pdb
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\3_CursoExcessoesAndColecoesC#\ExcessoesAndColecoes\obj\Debug\net6.0\ExcessoesAndColecoes.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\3_CursoExcessoesAndColecoesC#\ExcessoesAndColecoes\obj\Debug\net6.0\ExcessoesAndColecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\3_CursoExcessoesAndColecoesC#\ExcessoesAndColecoes\obj\Debug\net6.0\ExcessoesAndColecoes.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\3_CursoExcessoesAndColecoesC#\ExcessoesAndColecoes\obj\Debug\net6.0\ExcessoesAndColecoes.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\3_CursoExcessoesAndColecoesC#\ExcessoesAndColecoes\obj\Debug\net6.0\ExcessoesAndColecoes.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\3_CursoExcessoesAndColecoesC#\ExcessoesAndColecoes\obj\Debug\net6.0\ExcessoesAndColecoes.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\3_CursoExcessoesAndColecoesC#\ExcessoesAndColecoes\obj\Debug\net6.0\refint\ExcessoesAndColecoes.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\3_CursoExcessoesAndColecoesC#\ExcessoesAndColecoes\obj\Debug\net6.0\ExcessoesAndColecoes.pdb
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\3_CursoExcessoesAndColecoesC#\ExcessoesAndColecoes\obj\Debug\net6.0\ExcessoesAndColecoes.genruntimeconfig.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\3_CursoExcessoesAndColecoesC#\ExcessoesAndColecoes\obj\Debug\net6.0\ref\ExcessoesAndColecoes.dll

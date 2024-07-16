@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 1,
+    "Nome_Produto": "Matérial Escritório",
+    "Preco": 25.00,
+    "DataVenda": "2023-10-30T21:00:08.2149229-03:00"
+  },
+  {
+    "Id": 2,
+    "Nome_Produto": "Licença Windows",
+    "Preco": 120.00,
+    "DataVenda": "2023-10-30T21:00:08.2149229-03:00"
+  }
+]

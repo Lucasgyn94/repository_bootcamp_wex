@@ -1,0 +1,62 @@
+==> INTRODUÇÃO
+O EF é um framework ORM (Object-Relational Mapping) criado para facilitar a integração com o banco de dados, mapeando tabelas e gerando comandos SQL de forma automática.
+
+--> Instalar PACOTES
+* Ferramenta para executar comandos do EF diretamente pelo console, que funciona diretamente do CLI;
+$
+dotnet tool install --global dotnet-ef
+
+* So executamos esse comando uma vez, por exemplo, se formos trabalhar em outro projeto, n e necessário reinstala-ló
+
+* Instalando pacote do EF
+$
+dotnet add package Microsoft.EntityFrameworkCore.Design
+
+- Esse pacote deve ser instanciado a nível local, ou seja, de projeto para projeto.
+
+
+* Instalando pacote do SQL Server
+$
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+
+
+- Esse pacote deve ser instanciado a nível local, ou seja, de projeto para projeto.
+
+
+==> Context
+essa e uma classe q centraliza todas nossas informações em determinado  banco de dados. 
+exp: AgendaContext.cs
+
+==> Cadastrar a nossa conexão com o arquivo de configuração e inicializar o nosso DbContext
+
+- Se em desenvolvimento, cadastrando no arquivo "appsettings.Develpment.json"
+- se em produção no arquivo "appsettings.json"
+$
+"ConnectionStrings": {
+    "ConexaoPadrao" : "Server=localhost\\sqlexpress;Initial Catalog=Agenda;Integrated Security=true;TrustServerCertificate=true"
+  }
+
+==> Migrations
+* Criando uma nova migration
+$
+dotnet-ef migrations add CriacaoTabelaContato
+
+* Aplicando nossa migration no banco de dados:
+$
+dotnet-ef database update
+
+OBS: Caso de problema de certificação, adicionamos o codigo abaixo em nossa cadeia de conexão:
+
+TrustServerCertificate=true
+
+==> Verbos HTTP
+são ações que ocorreram em nossa api.
+
+POST = Create
+GET = Read
+PUT = Update/Replace
+Patch = Update/Modify
+DELETE = Delete
+
+==> Context AgendaContext
+Classe que vai acessar o banco de dados, usaremos para chamar a conexão com o banco

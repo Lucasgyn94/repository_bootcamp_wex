@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\2-curso-introducao-ides-e-configuracao-ambiente\primeiro-programa-dotnet\bin\Debug\net6.0\primeiro-programa-dotnet.exe
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\2-curso-introducao-ides-e-configuracao-ambiente\primeiro-programa-dotnet\bin\Debug\net6.0\primeiro-programa-dotnet.deps.json
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\2-curso-introducao-ides-e-configuracao-ambiente\primeiro-programa-dotnet\bin\Debug\net6.0\primeiro-programa-dotnet.runtimeconfig.json
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\2-curso-introducao-ides-e-configuracao-ambiente\primeiro-programa-dotnet\bin\Debug\net6.0\primeiro-programa-dotnet.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\2-curso-introducao-ides-e-configuracao-ambiente\primeiro-programa-dotnet\bin\Debug\net6.0\primeiro-programa-dotnet.pdb
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\2-curso-introducao-ides-e-configuracao-ambiente\primeiro-programa-dotnet\obj\Debug\net6.0\primeiro-programa-dotnet.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\2-curso-introducao-ides-e-configuracao-ambiente\primeiro-programa-dotnet\obj\Debug\net6.0\primeiro-programa-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\2-curso-introducao-ides-e-configuracao-ambiente\primeiro-programa-dotnet\obj\Debug\net6.0\primeiro-programa-dotnet.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\2-curso-introducao-ides-e-configuracao-ambiente\primeiro-programa-dotnet\obj\Debug\net6.0\primeiro-programa-dotnet.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\2-curso-introducao-ides-e-configuracao-ambiente\primeiro-programa-dotnet\obj\Debug\net6.0\primeiro-programa-dotnet.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\2-curso-introducao-ides-e-configuracao-ambiente\primeiro-programa-dotnet\obj\Debug\net6.0\primeiro-programa-dotnet.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\2-curso-introducao-ides-e-configuracao-ambiente\primeiro-programa-dotnet\obj\Debug\net6.0\refint\primeiro-programa-dotnet.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\2-curso-introducao-ides-e-configuracao-ambiente\primeiro-programa-dotnet\obj\Debug\net6.0\primeiro-programa-dotnet.pdb
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\2-curso-introducao-ides-e-configuracao-ambiente\primeiro-programa-dotnet\obj\Debug\net6.0\primeiro-programa-dotnet.genruntimeconfig.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\2-curso-introducao-ides-e-configuracao-ambiente\primeiro-programa-dotnet\obj\Debug\net6.0\ref\primeiro-programa-dotnet.dll

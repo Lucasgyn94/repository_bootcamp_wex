@@ -1,0 +1,27 @@
+=> Herança
+- A herança permite reutilizar atributos, métodos e comportamentos de uma classe em outra classe.
+
+- Serve para agrupar objetos que são do mesmo tipo, porém com característica diferentes.
+
+- Para herdar em dotnet apenas colocamos o símbolo : .
+
+ex: public class Aluno : Pessoa
+
+=> Polimorfismo
+- Vem do grego muitas formas.
+- Com polimorfismo, podemos sobrescrever métodos das classes filhas para que se comportem de maneira diferente e ter sua própria implementação.
+
+- Utilizamos a palavra reservada "virtual" para definir o polimorfismo
+em nossa classe pai, fazemos:
+
+public virtual void Apresentar() {
+            Console.WriteLine($"Olá. Meu nome é {Nome} e tenho {Idade} anos");
+
+        }
+
+- E na classe filha
+
+ public override void Apresentar()
+        {
+            Console.WriteLine($"Olá, eu sou o professor {Nome}, tenho {Idade} anos e ganho {Salario}");
+        }

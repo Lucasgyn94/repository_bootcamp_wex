@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\6-cast-implicito\bin\Debug\net6.0\6-cast-implicito.exe
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\6-cast-implicito\bin\Debug\net6.0\6-cast-implicito.deps.json
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\6-cast-implicito\bin\Debug\net6.0\6-cast-implicito.runtimeconfig.json
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\6-cast-implicito\bin\Debug\net6.0\6-cast-implicito.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\6-cast-implicito\bin\Debug\net6.0\6-cast-implicito.pdb
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\6-cast-implicito\obj\Debug\net6.0\6-cast-implicito.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\6-cast-implicito\obj\Debug\net6.0\6-cast-implicito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\6-cast-implicito\obj\Debug\net6.0\6-cast-implicito.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\6-cast-implicito\obj\Debug\net6.0\6-cast-implicito.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\6-cast-implicito\obj\Debug\net6.0\6-cast-implicito.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\6-cast-implicito\obj\Debug\net6.0\6-cast-implicito.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\6-cast-implicito\obj\Debug\net6.0\refint\6-cast-implicito.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\6-cast-implicito\obj\Debug\net6.0\6-cast-implicito.pdb
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\6-cast-implicito\obj\Debug\net6.0\6-cast-implicito.genruntimeconfig.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\6-cast-implicito\obj\Debug\net6.0\ref\6-cast-implicito.dll

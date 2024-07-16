@@ -1,0 +1,1 @@
+Se estamos em um projeto em que há a necessidade de leitura pelo usuário com um comando por exemplo: Console.ReadLine(), devemos acessar a nossa pasta ".vsconde" -> "launch.json" e na propriedade "console": "internalConsole" mudaremos para "integratedTerminal"

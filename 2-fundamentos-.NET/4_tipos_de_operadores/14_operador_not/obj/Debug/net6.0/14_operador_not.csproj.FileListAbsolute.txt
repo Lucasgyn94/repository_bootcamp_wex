@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\14_operador_not\bin\Debug\net6.0\14_operador_not.exe
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\14_operador_not\bin\Debug\net6.0\14_operador_not.deps.json
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\14_operador_not\bin\Debug\net6.0\14_operador_not.runtimeconfig.json
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\14_operador_not\bin\Debug\net6.0\14_operador_not.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\14_operador_not\bin\Debug\net6.0\14_operador_not.pdb
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\14_operador_not\obj\Debug\net6.0\14_operador_not.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\14_operador_not\obj\Debug\net6.0\14_operador_not.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\14_operador_not\obj\Debug\net6.0\14_operador_not.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\14_operador_not\obj\Debug\net6.0\14_operador_not.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\14_operador_not\obj\Debug\net6.0\14_operador_not.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\14_operador_not\obj\Debug\net6.0\14_operador_not.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\14_operador_not\obj\Debug\net6.0\refint\14_operador_not.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\14_operador_not\obj\Debug\net6.0\14_operador_not.pdb
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\14_operador_not\obj\Debug\net6.0\14_operador_not.genruntimeconfig.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\14_operador_not\obj\Debug\net6.0\ref\14_operador_not.dll

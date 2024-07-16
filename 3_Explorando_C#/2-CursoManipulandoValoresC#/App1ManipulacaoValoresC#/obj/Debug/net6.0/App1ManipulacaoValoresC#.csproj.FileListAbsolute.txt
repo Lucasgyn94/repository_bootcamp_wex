@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\2-CursoManipulandoValoresC#\App1ManipulacaoValoresC#\bin\Debug\net6.0\App1ManipulacaoValoresC#.exe
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\2-CursoManipulandoValoresC#\App1ManipulacaoValoresC#\bin\Debug\net6.0\App1ManipulacaoValoresC#.deps.json
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\2-CursoManipulandoValoresC#\App1ManipulacaoValoresC#\bin\Debug\net6.0\App1ManipulacaoValoresC#.runtimeconfig.json
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\2-CursoManipulandoValoresC#\App1ManipulacaoValoresC#\bin\Debug\net6.0\App1ManipulacaoValoresC#.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\2-CursoManipulandoValoresC#\App1ManipulacaoValoresC#\bin\Debug\net6.0\App1ManipulacaoValoresC#.pdb
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\2-CursoManipulandoValoresC#\App1ManipulacaoValoresC#\obj\Debug\net6.0\App1ManipulacaoValoresC#.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\2-CursoManipulandoValoresC#\App1ManipulacaoValoresC#\obj\Debug\net6.0\App1ManipulacaoValoresC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\2-CursoManipulandoValoresC#\App1ManipulacaoValoresC#\obj\Debug\net6.0\App1ManipulacaoValoresC#.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\2-CursoManipulandoValoresC#\App1ManipulacaoValoresC#\obj\Debug\net6.0\App1ManipulacaoValoresC#.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\2-CursoManipulandoValoresC#\App1ManipulacaoValoresC#\obj\Debug\net6.0\App1ManipulacaoValoresC#.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\2-CursoManipulandoValoresC#\App1ManipulacaoValoresC#\obj\Debug\net6.0\App1ManipulacaoValoresC#.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\2-CursoManipulandoValoresC#\App1ManipulacaoValoresC#\obj\Debug\net6.0\refint\App1ManipulacaoValoresC#.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\2-CursoManipulandoValoresC#\App1ManipulacaoValoresC#\obj\Debug\net6.0\App1ManipulacaoValoresC#.pdb
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\2-CursoManipulandoValoresC#\App1ManipulacaoValoresC#\obj\Debug\net6.0\App1ManipulacaoValoresC#.genruntimeconfig.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\2-CursoManipulandoValoresC#\App1ManipulacaoValoresC#\obj\Debug\net6.0\ref\App1ManipulacaoValoresC#.dll

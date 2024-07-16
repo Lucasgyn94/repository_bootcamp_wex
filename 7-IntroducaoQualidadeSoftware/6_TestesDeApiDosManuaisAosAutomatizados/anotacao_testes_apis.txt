@@ -1,0 +1,177 @@
+==> O QUE É API?
+Application Progamming Interface
+Função: Permitir a comunicação entre aplicações/sistemas a partir de um contrato de serviço
+
+--> O que define esse contrato?
+A forma como as partes devem se comunicar a partir de uma solicitação e a resposta da mesma.
+
+* Apis devem ser bem documentadas para o bom entendimento por parte do usuário para poder implementar em seus sistemas.
+
+==> BENEFÍCIOS
+1. Integração
+2. Inovação
+3. Expansão
+4. Manutenção
+
+==> Políticas de uso para APIs
+* públicas ou abertas
+* privadas ou internas
+* de parceiros
+* composta
+
+==> TIPOS TECNOLOGIAS
+* REST
+* RPC
+* SOAP
+* BASEADO EM WEBSOCKET
+* GRAPHQL
+
+--> REST
+* Representational State Transfer
+* Estilo arquitetural com restrição para criação de aplicações sob o protocolo HTTP
+	- Interface Uniforme
+	- Cliente-Servidor
+	- Stateless
+	- Uso de Camadas
+	- Códigos sob demandas
+	- Uso de Caches
+
+-> Interface Uniforme
+	# Necessário para desacoplar um cliente do servidor
+	# Maior visibilidade
+	# Controles de Interface:
+		- Identificação de recursos
+		- Gerenciamento de recursos por representações
+		- Comunicação autodescritivas
+		- Hipermídia como mecanismo de estado do aplicativo
+
+* Servidor-Cliente
+	# Trabalham de forma isolada, com desenvolvimento independente
+
+* Stateless/ Sem estado
+	# As chamadas podem ser feitas de forma independente
+	# Cada chamada deve enviar os dados necessários para completar a requisição
+
+* Armazenável em Cache
+	# Os dados em uma resposta podem ser armazenados em cache
+
+* Sistema em camadas
+	# Maior escalabilidade
+	# Maior segurança
+	# Maior desempenho de cada módulo
+
+* Código sob demanda - opcional
+	# Possibilidade dos serviços responderem como representação de um recurso, uma informaçõa executavél pelo cliente
+	# Diminui o número de recursos a serem implementados
+
+* Pode retornar mensagens em diversos formatos
+	# HTML
+	# XML
+	# TEXTO
+	# JSON
+
+--> SOAP
+* Simple Object Acces Protocol
+* Protocolo de acesso a Objetos simples mantidos pela W3C e baseado em XML
+* Criado com intuido de possibilitar comunicação entre diferentes aplicações e plataformas.
+* Suporta protocolos de comunicação como HTTP e SMTP
+
+--> WebSocket API
+* Guarda o estado e dados
+* A comunicação é bidirecional, portanto qualquer lado pode enviar mensagem para outra parte
+* Conexão TCP única
+* Bem utilizadas para aplicações IoT/ tempo real
+
+--> GraphQL
+* Query languaage para APIs, vindo como alternativa ao REST
+* Não é dependente de algum banco específico
+* São organizadas em termos de tipos e campos, ao invés de endpoints.
+* Facilidade de manutenção.
+
+--> RPC
+* Remote Procedure Calls (e uma chamada remota a alguma coisa)
+* API é construída com base na definição de métodos que serão chamados via argumentos
+* Implementação
+	# XML-RPC
+	# JSON-RPC
+	# SOAP
+	# gRPC
+
+==> NO QUE CONSISTE UM TESTE DE API
+* Processo de monitorar e validar requisições e respostas de uma API garantindo que se comporte como é esperado.
+* A partir da API conseguimos avaliar
+	- Questões relacionadas a regras de negócio antes de chegarmos ao nível de interface
+	- perfomance
+	- Integração com outras apis
+
+==> ABORDAGENS PARA TESTE DE API
+* TESTE FUNCIONAL: Verificarmos se API retorna o que é esperado dada uma requisição
+	- status code
+	- schema
+* Teste de carga: verificarmos desempenho a partir de um largo volume de requisições em um curto período
+* Detecção de erros: verificarmos se a API foi bem desenhada e seus erros estão sendo bem monitorados e mensagens estã claras
+* Segurança: verificarmos como a API se comporta e resiste durante ataques.
+* Penetração: Verificarmos se com pouco conhecimento sobre a API conseguimos atacar uma API
+* Fuzz: Envio de requisições aleatórias para analisar comportamento da API
+
+==> IMPORTÂNCIA DE TESTES DE API
+-> Garantimos que a API se comporte como deve mediante situações inesperadas
+-> Garantimos que erros não cheguem ao nível de testes de com interface.
+-> Avaliamos mais cedo questões relacionadas a desempenho, perfomance e segurança
+-> Verificamos integração entre APIs.
+-> É mais rápido que testes de front-end
+
+==> PLANEJANDO TESTES DE API
+--> O que devo pensar ants de iniciar os testes?
+
+* Qual modelo de ciclo de vida o projeto segue?
+* Quantas pessoas estão na equipe de QA
+* Qual a priorização de requisitos?
+* Qual o prazo?
+* Quais processos devemos seguir?
+* Quais ferramentas eu e minha equipe utilizaremos?
+
+1 - REVISE ESPECIFICAÇÃO DA API
+-> Revisar a especificação da API é importante para:
+	# Entender propósito
+	# Entender relação com regras de negócio
+	# Entender o que é esperado da requisição e na resposta
+-> A forma como será criada e mantida a especificação deve ser conversada pela equipe
+-> Padrã para descrições: OpenAPI
+	# definição de padrões para descrição de HTTP-APIs independentemente de linguagem
+-> Swagger: Ferramente que utiliza OpenAPI, e construi uma gama de utilizades e facilidades para geração, manutenção de documentação e testes de API
+
+2- DEETERMINE OS REQUERIMENTOS E COMPLEXIDADES
+-> O que deve ser testado?
+	# Status code
+	# cabeçalho
+	# corpo -> schema
+
+-> Qual a complexidade envolvia na codificação dos testes?
+	# Infraestrutura
+	# Tipos de testes
+
+-> Quais as abordagens de testes?
+-> Quais integrações existem com a API?
+-> Qual conjunto de testes serão automatizados? E quais serão somente manuais?
+-> Quais cenários prioritários?
+	# casos de sucesso (20x)
+	# casos de erro/ alternativos
+
+3- DETERMINE A FERRAMENTA DE TESTE MANUAL/AUTOMATIZADA
+-> Ao responder as etapas anteriores a escolha da ferramenta será muito mais fácil
+	# postman/insomnia
+	# soapUI
+	# Katalon
+	# Assertible
+	# Tricents Tosca
+	# API Fortress
+	# Mocklets
+	# Rest Assured
+	# Swagger
+	# Apache JMeter
+	# APIGee
+	# Cypress
+
+# API A SER UTILIZADA
+https://petstore.swagger.io/

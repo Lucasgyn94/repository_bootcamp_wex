@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\5_CursoNugetSerializarAndAtributosC#\NugetSerializarAndAtributos\bin\Debug\net6.0\NugetSerializarAndAtributos.exe
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\5_CursoNugetSerializarAndAtributosC#\NugetSerializarAndAtributos\bin\Debug\net6.0\NugetSerializarAndAtributos.deps.json
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\5_CursoNugetSerializarAndAtributosC#\NugetSerializarAndAtributos\bin\Debug\net6.0\NugetSerializarAndAtributos.runtimeconfig.json
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\5_CursoNugetSerializarAndAtributosC#\NugetSerializarAndAtributos\bin\Debug\net6.0\NugetSerializarAndAtributos.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\5_CursoNugetSerializarAndAtributosC#\NugetSerializarAndAtributos\bin\Debug\net6.0\NugetSerializarAndAtributos.pdb
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\5_CursoNugetSerializarAndAtributosC#\NugetSerializarAndAtributos\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\5_CursoNugetSerializarAndAtributosC#\NugetSerializarAndAtributos\obj\Debug\net6.0\NugetSerializarAndAtributos.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\5_CursoNugetSerializarAndAtributosC#\NugetSerializarAndAtributos\obj\Debug\net6.0\NugetSerializarAndAtributos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\5_CursoNugetSerializarAndAtributosC#\NugetSerializarAndAtributos\obj\Debug\net6.0\NugetSerializarAndAtributos.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\5_CursoNugetSerializarAndAtributosC#\NugetSerializarAndAtributos\obj\Debug\net6.0\NugetSerializarAndAtributos.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\5_CursoNugetSerializarAndAtributosC#\NugetSerializarAndAtributos\obj\Debug\net6.0\NugetSerializarAndAtributos.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\5_CursoNugetSerializarAndAtributosC#\NugetSerializarAndAtributos\obj\Debug\net6.0\NugetSerializarAndAtributos.csproj.CopyComplete
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\5_CursoNugetSerializarAndAtributosC#\NugetSerializarAndAtributos\obj\Debug\net6.0\NugetSerializarAndAtributos.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\5_CursoNugetSerializarAndAtributosC#\NugetSerializarAndAtributos\obj\Debug\net6.0\refint\NugetSerializarAndAtributos.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\5_CursoNugetSerializarAndAtributosC#\NugetSerializarAndAtributos\obj\Debug\net6.0\NugetSerializarAndAtributos.pdb
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\5_CursoNugetSerializarAndAtributosC#\NugetSerializarAndAtributos\obj\Debug\net6.0\NugetSerializarAndAtributos.genruntimeconfig.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\5_CursoNugetSerializarAndAtributosC#\NugetSerializarAndAtributos\obj\Debug\net6.0\ref\NugetSerializarAndAtributos.dll

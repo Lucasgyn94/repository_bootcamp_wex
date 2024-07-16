@@ -1,0 +1,147 @@
+==> Processo de Software
+é a metodologia para as atividades, ações e tarefas que rodeam o desenvolvimento de um software.
+
+- todos os envolvidos são diretamente ou indiretamente responsáveis pelo sucesso do projeto
+- Gera estabilidade, controle e organização dentro do contexto.
+- Processos são adaptavéis de acordo com o produto a ser desenvolvido.
+
+==> Atividades Principais do processo
+Segundo Pressman
+- Comunicação
+- Planejamento
+- Modelagem
+- Construção
+- Entrega
+
+Segundo Sommerville
+- Especificação
+- Projeto e implementação
+- Validação
+- Evolução
+
+-> Organização dos processos e suas relações = fluxo do processo
+
+-> Comunicação -> Planejamento -> Modelagem -> Construção -> Entreg
+
+OBS: cada estágio só deve iniciar quando o anterior terminar.
+
+-> Tipos de fluxo:
+
+* Fluxo iterativo
+* Fluxo de processo evolucionário
+* Fluxo de processo paralelo
+
+OBS: Cada processo e constituído por várias tarefas.
+
+=> Padrões de Processo
+- descreve um problema de processo e sugere soluções de acordo com o contexto
+- pode ser definido para qualquer nível de abstração
+- abordagens de avaliação e aperfeiçoamento 
+
+=> Modelos Prescritivos (Tradicionais)
+- também chamado de modelos tradicionais
+- foco na ordem e consistência do processo
+- prescrevem conjunto de elementos de processos e fluxos.
+
+-> Comunicação -> Planejamento -> Modelagem - Construção -> Entrega
+
+A saída de um estágio determina a entrada de outro estágio
+
+=> Modelo Cascata - Clássico
+- útil para requisitos bem compreendidos, definidos e estáveis.
+- processo linear e sistemático.
+
+=> Modelo V
+abordagem do processo de desenvolvimento de software como um "V", onde a fase de planejamento inicial encontra-se no topo, e a implementação e testes na base do "V". Necessidade de verificar e validadar cada fase do processo de desenvolvimento.
+
+=> Modelo Cascata Problemas
+- Projetos reais não seguem fluxo sequenciais
+- Não lida bem em se adaptar a constantes mudanças
+- Requisitos não são pre-estabelecidos na primeira fase.
+- Longo tempo para visualizar a primeira versão do software
+- Gera estado de bloqueio para equipe
+
+==> Modelo De Processo Incremental
+temos o modelo cascata mas com algumas alterações, tendo partes do projeto sendo entregues em determinado tempo
+
+==> Modelo Evolucionário
+- Possibilita o desenvolvimento de um software que cresce e se adapata constantemente
+- São iterativos
+- Modelos
+  * Prototipagem
+  * Espiral
+
+==> Prototipação
+- útil para refinar requisitos
+- validar eficiência e iteração ocm o usuário
+- pode ser aplicado isoladamente ou em conjunto com outros processos
+- O protótipo atua como forma de obtenção de requisitos
+- Podem ser descartáveis ou podem evoluir
+- Falta de consideração da qualidade global do software após prototipação ser considerada "funcional"
+- Acomodar com escolhas iniciais da prototipação
+
+=> Modelo Evolucionário - Espiral
+- Natureza iterativa da prototipação + aspectos sistemáticos da cascata
+- Estratégia cíclica incremental com foco em diminuir riscos.
+
+=> Modelo Concorrente
+- Representação concorrente de atividades de qualquer processo.
+
+==> MODELOS ESPECIALIZADOS
+- Desenvolvimento com base em componentes com interfaces definidas para serem integradas ao software -> COTS (commercial off-the-shelf)
+	* Módulo ou pacote de classes
+- Evolucionário por natureza
+- Foco em reutilização -> Redução no tempo de desenvolvimento e custos.
+
+=> Modelos de Métodos Formais
+- Atividades baseadas em condução à especificação matemática formal do software -> utilização de notação matemática
+- Análise matemática auxilia na descobertas de ambiguidade ou inconsistências.
+- Desenvolvimento consome tempo e dinheiro.
+- Complexidade exige formação e treinamento.
+- Bem visto para softwares com fatores críticos.
+
+=> Modelo Orientado a Aspectos
+- Paradigma que oferece uma abordagem metodológica e de processos para definir, especificar, projetar e construir aspectos, que são pontos de interesses que se propagam e entrecortam outras partes da aplicação.
+
+=> Processo Unificado
+- No início dos anos 90, James Rumbaugh, Grady Booch e Ivar Jacobson começaram a trabalhar em um "método unificado" que combinasse as melhores características de outros processos -> UML
+- Necessidade de um processo de software dirigido a casos de uso, centrado na arquitetura, iterativo e incremental.
+
+=> Fases do Processo Unificado
+1. Fase de concepção
+ * Comunicação
+ * Planejamento
+-> Requisitos são descritos em conjunto com casos de uso preliminares.
+-> Identificação de recursos, riscos, cronograma.
+
+2. Fase de elaboração
+ * Planejamento
+ * Modelagem
+
+-> Refinamento e expansão de casos de uso
+
+-> Ampliação de representação arquitetural:
+* casos de uso
+* modelo de analise
+* modelo de projeto
+* modelo de implementação
+* modelo de disponibilização
+
+3. Fase de construção
+-> Desenvolvimento de software com base em modelos
+-> uso de modelos para gerar suites de testes de aceite
+-> utilização de testes conforme desenvolvimento
+
+4. Fase de transição
+	* Construção
+	* Entrega
+-> Comum entrega de testes beta para recebimento de feedbacks
+-> O incremento torna-se uma versão utilizável do software
+
+5. Fase de produção
+	* Entrega
+-> monitoramento de uso contínuo
+-> suporte
+-> relátorios para defeitos e mudanças
+
+66

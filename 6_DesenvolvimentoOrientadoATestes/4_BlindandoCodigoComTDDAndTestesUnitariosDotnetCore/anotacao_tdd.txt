@@ -1,0 +1,11 @@
+==> REFINAMENTO INICIAL
+* Uma calculadora que contém Soma, Subtracao, Divisão e Multiplicação e histórico de operações.
+
+* Regras de negócios:
+  - Números inteiros
+  - 2 Parâmetros por operação
+  - Sempre retornar as últimas 3 operações do histórico
+
+
+===> TDD
+No tdd, o essencial e primeiro escrever testes que falham

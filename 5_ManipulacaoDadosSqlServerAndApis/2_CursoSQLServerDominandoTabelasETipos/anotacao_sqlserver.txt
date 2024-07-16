@@ -1,0 +1,29 @@
+==> SQL
+SQL (Structured Query Language): É a linguagem de banco de dados usada para consulta e manipulação de dados:
+
+==> Divisão SQL
+DDL - Data Definition Language 
+* CREATE
+* DROP
+* ALTER
+* TRUNCATE
+
+DCL - Data Control Language
+* GRANT
+* REVOKE
+
+DML - Data Manipulation Language
+* INSERT
+* UPDATE
+* DELETE
+
+TCL - Transaction Control Language
+* COMMIT
+* ROLLBACK
+* SAVE POINT
+
+DQL - Data Query Language
+* SELECT
+
+==> DATABASE
+é uma coleção de dados estruturados, agrupados de forma concisa. É composto de tabelas, procedures, views, etc.

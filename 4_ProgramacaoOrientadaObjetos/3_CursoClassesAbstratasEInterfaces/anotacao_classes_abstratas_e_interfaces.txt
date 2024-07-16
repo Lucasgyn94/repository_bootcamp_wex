@@ -1,0 +1,27 @@
+==> Classes Abstratas
+* servem como um modelo para ser herdada, portanto não pode ser instanciada.
+
+* Pode se implementar métodos ou deixá-los a cargo de quem herdar.
+
+* protected = significa que o código e protegido contra alterações externas, porém as classes filhas q herdarem podem modifica-lo.
+
+==> Classe Selada
+- tem como objetivo impedir que outras classes façam uma herança dela, ou seja, nenhuma classe pode ser sua derivada
+
+- Também existem métodos e propriedades seladas.
+
+- usamos a palavra "sealed", exemplo:
+$ public sealed class Professor : Pessoa
+
+==> Classe object
+- A classe System.Object é a mãe de todas as classes na hierarquia do .NET
+
+- Todas as classes derivam, direta ou indiretamente da clase Object, e ela tem como objetivo prover serviços de baixo nível para suas classes filhas.
+
+==> Interfaces
+- uma interface é um contrato que pode ser implementado por uma classe.
+- é como se fosse uma classe abstrata, podendo definir métodos abstratos para serem implementados.
+- Assim como uma classe abstrata, uma interface não pode ser instanciada.
+
+- métodos de interface que não possuem corpo, são obrigatórios de implementação, já os metodos que possuem corpo, não são obrigatórios.
+

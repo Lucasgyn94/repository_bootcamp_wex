@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\Desafios_Modulo_1\DesafioEntradaDados\bin\Debug\net6.0\DesafioEntradaDados.exe
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\Desafios_Modulo_1\DesafioEntradaDados\bin\Debug\net6.0\DesafioEntradaDados.deps.json
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\Desafios_Modulo_1\DesafioEntradaDados\bin\Debug\net6.0\DesafioEntradaDados.runtimeconfig.json
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\Desafios_Modulo_1\DesafioEntradaDados\bin\Debug\net6.0\DesafioEntradaDados.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\Desafios_Modulo_1\DesafioEntradaDados\bin\Debug\net6.0\DesafioEntradaDados.pdb
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\Desafios_Modulo_1\DesafioEntradaDados\obj\Debug\net6.0\DesafioEntradaDados.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\Desafios_Modulo_1\DesafioEntradaDados\obj\Debug\net6.0\DesafioEntradaDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\Desafios_Modulo_1\DesafioEntradaDados\obj\Debug\net6.0\DesafioEntradaDados.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\Desafios_Modulo_1\DesafioEntradaDados\obj\Debug\net6.0\DesafioEntradaDados.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\Desafios_Modulo_1\DesafioEntradaDados\obj\Debug\net6.0\DesafioEntradaDados.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\Desafios_Modulo_1\DesafioEntradaDados\obj\Debug\net6.0\DesafioEntradaDados.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\Desafios_Modulo_1\DesafioEntradaDados\obj\Debug\net6.0\refint\DesafioEntradaDados.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\Desafios_Modulo_1\DesafioEntradaDados\obj\Debug\net6.0\DesafioEntradaDados.pdb
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\Desafios_Modulo_1\DesafioEntradaDados\obj\Debug\net6.0\DesafioEntradaDados.genruntimeconfig.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\Desafios_Modulo_1\DesafioEntradaDados\obj\Debug\net6.0\ref\DesafioEntradaDados.dll

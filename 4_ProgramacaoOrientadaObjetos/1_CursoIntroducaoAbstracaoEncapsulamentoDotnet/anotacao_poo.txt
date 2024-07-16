@@ -1,0 +1,21 @@
+O que e POO?
+é um paradigma de programaão, ou seja, correspondente a uma técnica de programação par um fim específico.
+
+* Abstração
+* Encapsulamento
+* Herança
+* Polimorfismo
+
+-> Classes e objetos.
+classes são representação de um objeto da vida real.
+objeto e a concretização dessa classe.
+
+
+=> Pilares da POO
+* Abstração
+abstrair um objeto do mundo real para um contexto específico, considerando apenas os aributos importantes.
+* Encapsulamento
+- Serve para proteger uma classe e definir limites para alteração de suas propriedades.
+
+- Serve para ocultar seu comportamento e expor somente o necessário.
+

@@ -1,0 +1,20 @@
+==> Banco de Dados
+- Coleção organizada de informações (ou dados) estruturadas, normalmente armazenadas eletronicamente em um sistema de computador.
+
+==> Tipo de banco
+
+--> Relacional
+- tipo mais usado, armazenando dados estruturados, sendo organizado em tabelas, colunas e linhas, que se relacionam entre si.
+
+### Tabela
+são dados estruturados e organizados logicamente em formato de linha e coluna.
+
+--> Não-Relacional
+Banco de dados onde os dados não são armazenados em tabela, e sim de maneira não estruturada ou semi-estruturada.
+ex: MongoDb
+
+Existem vários tipos: document databases, key-value database, wide-column stores, e graph databases.
+
+==> DBMS
+Database Management System: É um software utilizado para acessar, manipular e monitorar um sistema de banco de dados.
+

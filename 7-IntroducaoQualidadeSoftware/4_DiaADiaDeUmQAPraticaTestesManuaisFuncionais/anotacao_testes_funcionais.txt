@@ -1,0 +1,21 @@
+==> Testes Funcionais
+são testes que visa avaliar se o software ou sistema atende aos requisitos funcionais especificados.
+ex:
+1. abrir o aplicativo
+2. navegar para página de produtos.
+3. selecionar um produto
+4. adicionar o produto ao carrinho
+5. navegar para o carrinho de compras
+etc.
+
+==> Confluence
+-> Criado pela Atlassian
+-> Espaço de trabalho colaborativo para gestão de conhecimento
+-> Auxilia junto ao JIRA no gerenciamento de projetos.
+
+==> JIRA
+-> Criado pela Atlassian
+-> Gerenciamento de trabalho com quadros ágeis
+-> Obtenção de relatórios
+-> Alta personalização
+-> Integração com outras aplicações

@@ -1,0 +1,52 @@
+==> CTFL
+A certificação CTFL (Certified Tester Foundation Level) é uma certificação na área de testes de software que é amplamente reconhecida internacionalmente. 
+Oferecida pelo ISTQB (International Software Testing Qualifications Board) e é um dos níveis de certificação que o ISTQB oferece na área de teste de software.
+
+==> Conhecendo ISTBQ e BSTQB
+--> Surgimento da ISTQB
+* Fundado em 1998
+* Liderança no esquema de certificações em teste de software
+objetivo:
+continuarmente melhorar e desenvolver as profissões relacionadas a testes de software a partir da definição e manutenção de um corpo de conhecimento...
+
+
+==> BSTQ
+* Brazilian Software Testing Qualifications Board - um dos Conselhos Membros do ISTQB e IREB (International Requirements Engineering Board).
+* Exclusivo para o Brasil
+* Mantido pelo ABRAMTI - Associação Brasileira de Melhoria em TI
+* Foco em Testes de Software e Engenharia de Requisitos
+* Tradução e gestão do corpo de conhecimento e realização de exames oficiais
+
+==> Estrutura e RoadMap Para aprovação na CTFL
+-> Pré-requisitos para demais certificações
+-> Conhecimentos base da área de testes explorando conceitos para quaisquer modelos de entrega
+-> Para quem?
+ * Testadores
+ * Analistas de Testes
+ * Engenheiros de Testes
+ * Consultores
+ * Gerentes
+ * Desenvolvedores
+
+==> Estrutura do Exame
+* 40 questões -> 40 pontos
+* aprovação: 26 pontos
+* 60 min + 15 para não-nativos da linguagem
+
+-> Material de estudo:
+* SYLLABUS Syllabus v3.1.1 or Syllabus-PT
+
+==> Objetivos de aprendizagem e níveis cognitivos
+-> Objetivos de aprendizagem: definição para resultados esperado e criação de níveis de certificações
+
+-> Objetivos cognitivos: Classificar os objetivos de aprendizagem
+ * K1: lembra
+ * K2: entender
+ * K3: aplicar
+Esses 3 são os principais 
+ * K4: analisar
+ * K5: avaliar
+ * K6: criar
+
+
+

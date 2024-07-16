@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\12-operadores_logicos_or\bin\Debug\net6.0\12-operadores_logicos_or.exe
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\12-operadores_logicos_or\bin\Debug\net6.0\12-operadores_logicos_or.deps.json
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\12-operadores_logicos_or\bin\Debug\net6.0\12-operadores_logicos_or.runtimeconfig.json
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\12-operadores_logicos_or\bin\Debug\net6.0\12-operadores_logicos_or.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\12-operadores_logicos_or\bin\Debug\net6.0\12-operadores_logicos_or.pdb
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\12-operadores_logicos_or\obj\Debug\net6.0\12-operadores_logicos_or.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\12-operadores_logicos_or\obj\Debug\net6.0\12-operadores_logicos_or.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\12-operadores_logicos_or\obj\Debug\net6.0\12-operadores_logicos_or.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\12-operadores_logicos_or\obj\Debug\net6.0\12-operadores_logicos_or.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\12-operadores_logicos_or\obj\Debug\net6.0\12-operadores_logicos_or.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\12-operadores_logicos_or\obj\Debug\net6.0\12-operadores_logicos_or.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\12-operadores_logicos_or\obj\Debug\net6.0\refint\12-operadores_logicos_or.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\12-operadores_logicos_or\obj\Debug\net6.0\12-operadores_logicos_or.pdb
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\12-operadores_logicos_or\obj\Debug\net6.0\12-operadores_logicos_or.genruntimeconfig.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\12-operadores_logicos_or\obj\Debug\net6.0\ref\12-operadores_logicos_or.dll

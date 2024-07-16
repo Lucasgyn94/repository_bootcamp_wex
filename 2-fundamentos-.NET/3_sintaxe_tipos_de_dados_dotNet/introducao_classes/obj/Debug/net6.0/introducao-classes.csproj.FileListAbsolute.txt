@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\3-sintaxe-tipos-de-dados-dotNet\introducao-classes\bin\Debug\net6.0\introducao-classes.exe
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\3-sintaxe-tipos-de-dados-dotNet\introducao-classes\bin\Debug\net6.0\introducao-classes.deps.json
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\3-sintaxe-tipos-de-dados-dotNet\introducao-classes\bin\Debug\net6.0\introducao-classes.runtimeconfig.json
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\3-sintaxe-tipos-de-dados-dotNet\introducao-classes\bin\Debug\net6.0\introducao-classes.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\3-sintaxe-tipos-de-dados-dotNet\introducao-classes\bin\Debug\net6.0\introducao-classes.pdb
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\3-sintaxe-tipos-de-dados-dotNet\introducao-classes\obj\Debug\net6.0\introducao-classes.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\3-sintaxe-tipos-de-dados-dotNet\introducao-classes\obj\Debug\net6.0\introducao-classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\3-sintaxe-tipos-de-dados-dotNet\introducao-classes\obj\Debug\net6.0\introducao-classes.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\3-sintaxe-tipos-de-dados-dotNet\introducao-classes\obj\Debug\net6.0\introducao-classes.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\3-sintaxe-tipos-de-dados-dotNet\introducao-classes\obj\Debug\net6.0\introducao-classes.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\3-sintaxe-tipos-de-dados-dotNet\introducao-classes\obj\Debug\net6.0\introducao-classes.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\3-sintaxe-tipos-de-dados-dotNet\introducao-classes\obj\Debug\net6.0\refint\introducao-classes.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\3-sintaxe-tipos-de-dados-dotNet\introducao-classes\obj\Debug\net6.0\introducao-classes.pdb
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\3-sintaxe-tipos-de-dados-dotNet\introducao-classes\obj\Debug\net6.0\introducao-classes.genruntimeconfig.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\3-sintaxe-tipos-de-dados-dotNet\introducao-classes\obj\Debug\net6.0\ref\introducao-classes.dll

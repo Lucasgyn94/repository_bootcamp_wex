@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\11_switch_case\bin\Debug\net6.0\11_switch_case.exe
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\11_switch_case\bin\Debug\net6.0\11_switch_case.deps.json
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\11_switch_case\bin\Debug\net6.0\11_switch_case.runtimeconfig.json
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\11_switch_case\bin\Debug\net6.0\11_switch_case.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\11_switch_case\bin\Debug\net6.0\11_switch_case.pdb
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\11_switch_case\obj\Debug\net6.0\11_switch_case.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\11_switch_case\obj\Debug\net6.0\11_switch_case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\11_switch_case\obj\Debug\net6.0\11_switch_case.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\11_switch_case\obj\Debug\net6.0\11_switch_case.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\11_switch_case\obj\Debug\net6.0\11_switch_case.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\11_switch_case\obj\Debug\net6.0\11_switch_case.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\11_switch_case\obj\Debug\net6.0\refint\11_switch_case.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\11_switch_case\obj\Debug\net6.0\11_switch_case.pdb
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\11_switch_case\obj\Debug\net6.0\11_switch_case.genruntimeconfig.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\11_switch_case\obj\Debug\net6.0\ref\11_switch_case.dll

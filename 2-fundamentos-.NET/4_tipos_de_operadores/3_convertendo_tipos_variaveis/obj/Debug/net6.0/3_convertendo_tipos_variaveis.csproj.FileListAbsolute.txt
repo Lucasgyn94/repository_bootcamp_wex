@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\3_convertendo_tipos_variaveis\bin\Debug\net6.0\3_convertendo_tipos_variaveis.exe
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\3_convertendo_tipos_variaveis\bin\Debug\net6.0\3_convertendo_tipos_variaveis.deps.json
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\3_convertendo_tipos_variaveis\bin\Debug\net6.0\3_convertendo_tipos_variaveis.runtimeconfig.json
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\3_convertendo_tipos_variaveis\bin\Debug\net6.0\3_convertendo_tipos_variaveis.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\3_convertendo_tipos_variaveis\bin\Debug\net6.0\3_convertendo_tipos_variaveis.pdb
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\3_convertendo_tipos_variaveis\obj\Debug\net6.0\3_convertendo_tipos_variaveis.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\3_convertendo_tipos_variaveis\obj\Debug\net6.0\3_convertendo_tipos_variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\3_convertendo_tipos_variaveis\obj\Debug\net6.0\3_convertendo_tipos_variaveis.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\3_convertendo_tipos_variaveis\obj\Debug\net6.0\3_convertendo_tipos_variaveis.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\3_convertendo_tipos_variaveis\obj\Debug\net6.0\3_convertendo_tipos_variaveis.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\3_convertendo_tipos_variaveis\obj\Debug\net6.0\3_convertendo_tipos_variaveis.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\3_convertendo_tipos_variaveis\obj\Debug\net6.0\refint\3_convertendo_tipos_variaveis.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\3_convertendo_tipos_variaveis\obj\Debug\net6.0\3_convertendo_tipos_variaveis.pdb
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\3_convertendo_tipos_variaveis\obj\Debug\net6.0\3_convertendo_tipos_variaveis.genruntimeconfig.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\3_convertendo_tipos_variaveis\obj\Debug\net6.0\ref\3_convertendo_tipos_variaveis.dll

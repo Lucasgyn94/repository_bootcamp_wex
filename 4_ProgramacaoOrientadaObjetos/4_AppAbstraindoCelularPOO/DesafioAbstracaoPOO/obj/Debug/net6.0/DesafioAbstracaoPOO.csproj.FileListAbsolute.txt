@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\4_ProgramacaoOrientadaObjetos\4_AppAbstraindoCelularPOO\DesafioAbstracaoPOO\bin\Debug\net6.0\DesafioAbstracaoPOO.exe
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\4_ProgramacaoOrientadaObjetos\4_AppAbstraindoCelularPOO\DesafioAbstracaoPOO\bin\Debug\net6.0\DesafioAbstracaoPOO.deps.json
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\4_ProgramacaoOrientadaObjetos\4_AppAbstraindoCelularPOO\DesafioAbstracaoPOO\bin\Debug\net6.0\DesafioAbstracaoPOO.runtimeconfig.json
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\4_ProgramacaoOrientadaObjetos\4_AppAbstraindoCelularPOO\DesafioAbstracaoPOO\bin\Debug\net6.0\DesafioAbstracaoPOO.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\4_ProgramacaoOrientadaObjetos\4_AppAbstraindoCelularPOO\DesafioAbstracaoPOO\bin\Debug\net6.0\DesafioAbstracaoPOO.pdb
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\4_ProgramacaoOrientadaObjetos\4_AppAbstraindoCelularPOO\DesafioAbstracaoPOO\obj\Debug\net6.0\DesafioAbstracaoPOO.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\4_ProgramacaoOrientadaObjetos\4_AppAbstraindoCelularPOO\DesafioAbstracaoPOO\obj\Debug\net6.0\DesafioAbstracaoPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\4_ProgramacaoOrientadaObjetos\4_AppAbstraindoCelularPOO\DesafioAbstracaoPOO\obj\Debug\net6.0\DesafioAbstracaoPOO.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\4_ProgramacaoOrientadaObjetos\4_AppAbstraindoCelularPOO\DesafioAbstracaoPOO\obj\Debug\net6.0\DesafioAbstracaoPOO.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\4_ProgramacaoOrientadaObjetos\4_AppAbstraindoCelularPOO\DesafioAbstracaoPOO\obj\Debug\net6.0\DesafioAbstracaoPOO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\4_ProgramacaoOrientadaObjetos\4_AppAbstraindoCelularPOO\DesafioAbstracaoPOO\obj\Debug\net6.0\DesafioAbstracaoPOO.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\4_ProgramacaoOrientadaObjetos\4_AppAbstraindoCelularPOO\DesafioAbstracaoPOO\obj\Debug\net6.0\refint\DesafioAbstracaoPOO.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\4_ProgramacaoOrientadaObjetos\4_AppAbstraindoCelularPOO\DesafioAbstracaoPOO\obj\Debug\net6.0\DesafioAbstracaoPOO.pdb
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\4_ProgramacaoOrientadaObjetos\4_AppAbstraindoCelularPOO\DesafioAbstracaoPOO\obj\Debug\net6.0\DesafioAbstracaoPOO.genruntimeconfig.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\4_ProgramacaoOrientadaObjetos\4_AppAbstraindoCelularPOO\DesafioAbstracaoPOO\obj\Debug\net6.0\ref\DesafioAbstracaoPOO.dll

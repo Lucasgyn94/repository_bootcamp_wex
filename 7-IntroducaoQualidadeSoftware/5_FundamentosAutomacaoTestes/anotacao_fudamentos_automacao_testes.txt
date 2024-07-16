@@ -1,0 +1,229 @@
+===> FUNDAMENTOS PARA PROJETOS DE AUTOMAÇÃO
+
+==> REVISANDO CICLO DE VIDA DO SOFTWARE
+
+1- Planejamento
+2- Monitoramento e controle
+3- Análise
+4- Design/Projeto
+5- Implementação
+6- Execução
+7- Finalização
+
+
+==> AUTOMAÇÃO COMO ATIVIDADE
+
+-> Processo de design de um testware
+
+* Software
+* Documentação
+* Ambientes de teste
+* Dados de teste
+
+==> Atividades de testes relacionadas
+* Implementação de casos de testes automatizados
+* Monitoramento e controle de execução
+* Interpretação, relatório e log de resultados
+
+==> Objetivos da automação
+* Melhorar a eficiência dos testes
+* Ampliar cobertura de testes
+* Reduzir custo total de teste
+* Diminuir tempo de execução
+* Aumentar frequência de teste
+
+==> Vantagens da automação
+* Testes que não podem ser feitos de maneira manual
+* Complexidade pode aumentar -> tempo diminui
+* Reduz erros humanos na validação
+* Feedback mais rápido
+* Maior confiabilidade
+
+==> Desvantagens da automação
+* Custos adicionais
+* Investimento inicial para configuração da arquitetura de testes
+* Investimento na arquitetura do software sob teste
+* Complexidade de codificação
+* Manutenção de testes
+
+==> ALGUMAS REFLEXÕES
+* Nem todos os testes podem ou devem ser automatizados
+* A automação de testes não substitui os testes manuais
+* A automação é limitada pela análise do sistema. A subjetividade do analista/engenheiro é importante!
+* Script de teste automatizado também é código assim como qualquer outro software, portanto um bom analista deve se preocupar em um código limpo e com boas práticas
+
+==> ARQUITETURA DO PROJETO DE AUTOMAÇÃO
+-> A arquitetura de um projeto de automação deve estar alinhada com a arquitetura do produto de software
+-> Lembrar que existem requisitos não-funcionais para testes.
+-> Envolvimento com desenvolvedores do projeto é essencial para o sucesso da automação
+
+==> TESTABILIDADE
+-> O produto de software deve ser construído, deve ser modelado, pensando no suporte aos testes automatizados.
+	* Desacoplamento entre camadas
+	* Expor módulos/funções/classes para facilitar testes
+-> Identificar e analisar módulos que são testáveis, que faz parte do processo de decisão de automação
+
+==> ESTRATÉGIAS DE TESTES
+-> Identificar o conjunto, tipos e nívels de testes automatizados que garantem consistência e cobertura do sistema
+
+UI
+Service
+Unit
+
+==> USO DE FRAMEWORK DE AUTOMAÇÃO DE TESTE
+-> Avaliar um bom framework garante benefícios para
+* Implementar relatórios de testes
+* Facilitar resolução de problemas
+* Facilitar configuração de ambiente
+* Documentar casos de teste
+* Rastrear etapas dos casos de teste
+* Facilitar manutenção dos testes
+* Atualização dos testes automatizados
+* Monitorar e restaurar execução dos testes em caso de falha
+
+ex: browserstack
+
+===> AULA 2 - ARQUITETURA GENÉRICA E DESIGN PARA AUTOMAÇÃO
+
+-> O QUE É ARQUITETRA DE SOFTWARE?
+* Descrição e compreensão dos componentes do sistema, suas estruturas e relações.
+* Considerar fatores externos na definição da arquitetura de um sistema.
+
+-> PADRÕES ARQUITETURAIS
+* São soluções gerais e reutilizáveis para resolver problemas recorrentes dentro de certo contexto.
+* São inseridos em um escopo maior do sistema
+
+OBS: Padrão arquitetural != Padrão de projeto
+
+-> PADRÕES DE PROJETO
+* São soluções gerais e reutilizáveis para problemas comuns relacionados à construção do projeto de software independente da linguagem.
+* São divididos em:
+	-> padrões de criação: factory method, abstract factory, singleton..
+	-> padróes estruturais: adpater, composite, facade, proxy
+	-> padrões comportamentais: command, observer, mediator
+
+==> SOLID
+* Responsabilidade única: Cada componente deve ter uma única responsabilidade e esta deve ser encapsulada.
+* Extensão: Cada componente deve estar aberto para extensão, mas fechado para modificação.
+* Substituição: Cada componente deve ser substituível sem afetar o comportamento geral da solução.
+* Segregação: É melhor ter componentes específicos do que um componente geral multiuso.
+* Inversão de dependência: Os componentes devem depender de abstrações e não de detalhes de mais baixo nível.
+
+==> CAMADA DE GERAÇÃO DE TESTE
+* Criação manual de casos de teste
+* Desenvolvimento, captura ou obtenção de dados de teste
+* Geração automática de casos de teste a partir de modelos
+
+==> CAMADA DE DEFINIÇÃO D ETESTE
+* Especificação de casos de testes
+* Definição de dados de teste
+* Especificação de procedimento de testes
+* Definição de scripts para execução dos casos de teste
+* Conceder acesso às bibliotecas de teste conforme necessário
+
+==> CAMADA DE EXECUÇÃO DE TESTE
+* Executar casos de teste automaticamente
+* Registrar execuções
+* Relatar execuções
+
+==> CAMADA DE ADAPTAÇÃO DE TESTE
+* Controlar ambiente de teste
+* Interagir com sistema a ser testado
+* Monitorar o sistema sendo testado
+* Simular ou emular o ambiente sendo testado
+
+==> GERENCIAMENTO DE PROJETOS DE SOLUÇÃO DE TESTES AUTOMATIZADOS
+* Prestar atenção ao gerencimaneto de configuração do projeto
+* Versionamento deve seguir boas práticas
+* A extração de métrica deve ser analisada da mesma forma que em uma abordagem manual
+
+==> NO QUE DEVEMOS PENSAR AO INICIAR PROJETO DE AUTOMAÇÃO?
+* Qual atividade ou fase do processo de testes queremos automatizar?
+* Qual nível de teste queremos ter suporte?
+* Qual o tipo de teste?
+* Quem executará e implementará o teste?
+* Quais os projetos existem gratuitos e quais podem ser comprados?
+* Quais tecnologias queremos ter suporte? E a complexidade?
+Que linguagens queremos utilizar?
+* Qual modelo do ciclo de vida do software estamos inseridos?
+* Qual a complexidade de implementação e como afeta o projeto?
+* Será necessário treinamento?
+
+==> ABORDAGENS PARA AUTOMAÇÃO DE CASOS DE TESTE
+--> Sabemos que os casos de testes correspondem à sequência de ações executadas sobre o sistema sendo testado.
+
+--> Abordagens:
+	1. A solução implementa casos de teste diretamente em scripts de teste automatizados.
+	2. A solução projeta procedimentos de teste e os transforma em scripts automatizados
+	3. A solução utiliza uma ferramente para traduzir os procedimentos de teste em scripts de teste automatizado
+	4. A solução utiliza uma ferramenta que gera procedimentos automatizados de teste ou traduz os scripts diretamente nos modelos. Maior grau de automação.
+
+--> ABORDAGEM DE CAPTURA E REPRODUÇÃO
+* As ferramentas são usadas para capturar a interação com o sistema enquanto executa a sequência de ações, registrando as saídas. A verificação da saída pode ser manual ou automatizaada
+	* Prós: Fácil de usar e configurar
+	* Contras: Difícil de evoluir e manter
+
+EX: Selenium IDE
+
+--> GERAÇÃO DE SCRIPTS LINEARES
+* As ferramentas são usadas para capturar a interação com o sistema enquanto executa a sequência de ações, registrando as saídas e gerando scripts de testes lineares.
+	* Prós: Fácil uso e configuração
+	* Contras: Díficil de evoluir e manter
+
+--> GERAÇÃO DE SCRIPTS ESTRUTURADOS
+* Geração de bibliotecas de scripts reutilizáveis para os casos de teste.
+	* Prós: Menor manutenção e menor custo para novos testes.
+	* Contras: Custo maior para criação dos scripts compartilhados. Boas habilidades de programação.
+
+--> Orientado a dados
+* Abordagem na qual os scripts utilizam arquivos com diversas massas de dados.
+	* Prós: Reduz custo para adição de testes. Aumenta variações com dados de teste.
+	* Contras: Gerenciar bem os arquivos a serem lidos pela solução.
+
+--> Uso de palavras-chaves
+* O script baseado em palavras-chaves utiliza arquivos de definições a partir de palavras mais descritivas além da possibilidade de uso de arquivos de dados.
+	* Prós: Reduz custo para adição de testes. Aumenta variações com dados de testes.
+	* Contras: A implementação das palavras-chaves vem com custo.
+Boas palavras-chaves são mais reutilizadas.
+
+--> TESTES BASEADO EM MODELOS
+* Geração automatizada de casos de teste em oposição à execução de casos de testes. Pode derivar qualquer tipo de script.
+	* Prós: Abstração garante foco no objetivo do teste. Manutenção somente nos modelos.
+	* Contras: É necessário bom conhecimento para modelos de testes além de garantir que as ferramentas de geração sejam maduras e gerem bons relatórios.
+
+==> AULA 3
+=> PADRÕES DE PROJETO PARA AUTAÇÃO E2E
+
+1 - Conhecer o Page Object Model
+--> Padroes de projetos para teste?
+* O conhecimento sobre padrões de projeto é muito importante quando precisamos lidar com projetos de alta complexidade.
+* Os padrões voltados para testes servem para resolver problemas comuns relacionados à coerência, coesão, isolamento e responsabilidade dos testes
+
+--> POM - Page Object Model
+Page Object é um padrão de design utilizando em automação de testes para criar uma camada de abstração entre os testes automatizados e os elementos da interface do usuário. Cada página ou componente da interface do usuário é mapeado para um objeto no código.
+
+-> Vantagens:
+	* Reaproveitamento de código
+	* Código mais limpo
+	* Facilidade de manutenção
+	* Independência de testes
+
+-> Desvantagens
+	* Necessária boa compreensão de programação e do padrão em si
+	
+	* Elementos ficam isolados a uma página específica
+	* É necessária uma boa modelagem, caso contrário as refatorações serão constantes
+	* Projetos complexos demandam mais tempo para automação
+
+
+2 - Conhecer o Business-layer Page Object
+
+* Camada de objetos da página não deve apenas representar os elementos da interface do usuário, mas também deve incorporar lógica de negócios relacionados a essa página.
+
+3 - Conhecer o ScreenPlay Pattern
+
+* criação de scripts mais legíveis, modulares e reutilizáveis. Enfâse na interação do usuário com o sistema em termos de atores, tarefas e interações, em vez de se concentrar apenas nos elementos da interface do usuário.
+
+4 - Conhecer o App Actions
+-> Objetivo do App Actionss é utilizar a Arquitetura do Cypress a favor do desacoplamento entre a camada da aplicação e o HTML.
+Utiliza-se acesso à própria aplicação para configurar o estado do teste sem depender da UI, melhorando, dessa forma, a perfomance

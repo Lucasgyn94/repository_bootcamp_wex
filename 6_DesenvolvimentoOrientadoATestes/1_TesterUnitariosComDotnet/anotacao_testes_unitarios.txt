@@ -1,0 +1,97 @@
+==> O QUE É UM TESTE?
+Existes vários tipos de testes de software: unitários, integração, regressico, segurança, etc...
+
+Os testes são fundamentais para grantir a qualidade e o correto funcionamento de um software.
+
+Serve principalmente para validar se o que foi contruído está atendendo ao que se é esperado.
+
+==> TESTE UNITÁRIO
+são testes realizados diretamento no código fonte, buscando testar a menor unidade de código possível, através de cenários que podem ocorrer no sistema.
+Exemplo: Um usuário do sistema só é cadastrado se possuir um CPF e um e-mall válido. Caso contrário, retornará um erro indicando o que está errado.
+### Possíveis casos de testes:
+* Usuário com todos os dados válidos
+* Usuário com CPF Inválido
+* Usuário com e-mail inválido
+
+==> VANTAGENS
+* A maior vantagem é a qualidade.
+* Garante que a alteração não tenha impactos no sistema.
+* Menos bugs.
+* Maior confiança de que suas classes e métodos funcionam.
+* Prevenir problemas futuros.
+
+==> FRAMEWORKS DE TESTES
+* MSTeste
+* NUnit
+* xUnit
+
+Iremos trabalhar com xUnit, é um dos frameworks mais atualizados e conhecidos.
+
+==> PRATICANDO
+1º Devemos criar uma pasta vazia para agrupar o nosso projeto.
+Após, iremos criar dentro desta pasta, duas novas pastas vazias, "Calculadora" e "CalculadoraTestes".
+
+2ª Dentro da pasta Calculadora daremos o comando "dotnet new console"
+
+3º Dentro da pasta CalculadoraTestes daremos o comando "dotnet new xunit"
+
+4º Após, deveremos adicionas os nossos csproj a nosso sulution.
+Para criar uma solution, devemos baixar a estensão caso não tenha, com a extensão baixada, clicamos em "create new solution", e sera pedido os seguintes itens:
+ - Nome para Solution
+por exemplo: ModuloTestesDio, após da o nome e clicar em enter, será então criado nossa solution é o próximo passo e adicionar os 2 projetos a nossa solution.
+
+5ª Para adicionar os projetos csproj a nossa solution, basta clicar com o botão direito do mouse > Add existing projetct > Será então aberta uma pasta para selecionarmos os nossos "csproj".
+
+6ª Agora temos que adicionar uma referência na Calculadoratestes, para ela reconhecer nosso projeto Calculadora.
+
+7ª Para isso em nossa Solution, clicamos em cima de CalculadoraTestes > Add reference > com isso será criada uma referência para nosso projeto Calculadora.
+
+8ª Feito isso o nosso setup está garantido e podemos montar e realizar nossos testes.
+
+
+==> [FACT]
+
+[Fact] = atributo ou anotação usada para marcar um método como um fato (fact) que será executado como um teste
+
+==> ARRANGE
+Serve para montarmos o nosso cenário
+
+==> ACT
+Com o cenário montado, chamamos ele para executar a ação somar.
+
+==> ASSERT
+Serve para validar se a ação tem o resultado esperado.
+
+==> EXECUTAR UM TESTE
+Dentro da pasta de testes, no nosso caso, CalculadoraTestes, damos o comando:
+$ "dotnet test"
+
+==> THEORY
+É uma maneira de validar diversos cenários. Inves de passar o [Fact], passamos o [Theory], com Theory, podemos passar [InlineData], que são parametros para o meu teste, exempo pode ser visto abaixo:
+
+ [Theory]
+    [InlineData(2)]
+    [InlineData(4)]
+    [InlineData(6)]
+    [InlineData(8)]
+    [InlineData(10)]
+    public void DeveVerficarSeOsNumerosSaoParesEhRetornarVerdadeiro(int numero) {
+        // Act
+        bool resultado = _calculadora.EhPar(numero);
+
+        // Assert
+        Assert.True(resultado);
+    }
+
+
+==> RECEBENDO LISTAS COMO PARAMETRO
+Aqui iremos receber uma lista de números como parametros e verificar se todos os números são pares em um único cenário.
+
+  [Theory]
+    [InlineData(new int[] {2, 4})]
+    [InlineData(new int[] {6, 8, 10})]
+    public void DeveVerficarSeOsNumerosListasSaoParesEhRetornarVerdadeiro(int[] numeros) {
+        // Assert
+        Assert.All(numeros, numero => Assert.True(_calculadora.EhPar(numero)));
+    }
+

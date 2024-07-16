@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\2_combinando_operadores\bin\Debug\net6.0\2_combinando_operadores.exe
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\2_combinando_operadores\bin\Debug\net6.0\2_combinando_operadores.deps.json
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\2_combinando_operadores\bin\Debug\net6.0\2_combinando_operadores.runtimeconfig.json
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\2_combinando_operadores\bin\Debug\net6.0\2_combinando_operadores.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\2_combinando_operadores\bin\Debug\net6.0\2_combinando_operadores.pdb
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\2_combinando_operadores\obj\Debug\net6.0\2_combinando_operadores.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\2_combinando_operadores\obj\Debug\net6.0\2_combinando_operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\2_combinando_operadores\obj\Debug\net6.0\2_combinando_operadores.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\2_combinando_operadores\obj\Debug\net6.0\2_combinando_operadores.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\2_combinando_operadores\obj\Debug\net6.0\2_combinando_operadores.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\2_combinando_operadores\obj\Debug\net6.0\2_combinando_operadores.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\2_combinando_operadores\obj\Debug\net6.0\refint\2_combinando_operadores.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\2_combinando_operadores\obj\Debug\net6.0\2_combinando_operadores.pdb
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\2_combinando_operadores\obj\Debug\net6.0\2_combinando_operadores.genruntimeconfig.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\2_combinando_operadores\obj\Debug\net6.0\ref\2_combinando_operadores.dll

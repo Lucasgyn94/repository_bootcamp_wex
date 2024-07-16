@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\4_diferenca_convert_parse\bin\Debug\net6.0\4_diferenca_convert_parse.exe
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\4_diferenca_convert_parse\bin\Debug\net6.0\4_diferenca_convert_parse.deps.json
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\4_diferenca_convert_parse\bin\Debug\net6.0\4_diferenca_convert_parse.runtimeconfig.json
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\4_diferenca_convert_parse\bin\Debug\net6.0\4_diferenca_convert_parse.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\4_diferenca_convert_parse\bin\Debug\net6.0\4_diferenca_convert_parse.pdb
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\4_diferenca_convert_parse\obj\Debug\net6.0\4_diferenca_convert_parse.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\4_diferenca_convert_parse\obj\Debug\net6.0\4_diferenca_convert_parse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\4_diferenca_convert_parse\obj\Debug\net6.0\4_diferenca_convert_parse.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\4_diferenca_convert_parse\obj\Debug\net6.0\4_diferenca_convert_parse.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\4_diferenca_convert_parse\obj\Debug\net6.0\4_diferenca_convert_parse.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\4_diferenca_convert_parse\obj\Debug\net6.0\4_diferenca_convert_parse.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\4_diferenca_convert_parse\obj\Debug\net6.0\refint\4_diferenca_convert_parse.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\4_diferenca_convert_parse\obj\Debug\net6.0\4_diferenca_convert_parse.pdb
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\4_diferenca_convert_parse\obj\Debug\net6.0\4_diferenca_convert_parse.genruntimeconfig.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\4_diferenca_convert_parse\obj\Debug\net6.0\ref\4_diferenca_convert_parse.dll

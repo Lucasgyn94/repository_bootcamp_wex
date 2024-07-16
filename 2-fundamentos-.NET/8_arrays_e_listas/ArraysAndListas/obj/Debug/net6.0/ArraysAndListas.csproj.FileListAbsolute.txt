@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\8_arrays_e_listas\ArraysAndListas\bin\Debug\net6.0\ArraysAndListas.exe
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\8_arrays_e_listas\ArraysAndListas\bin\Debug\net6.0\ArraysAndListas.deps.json
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\8_arrays_e_listas\ArraysAndListas\bin\Debug\net6.0\ArraysAndListas.runtimeconfig.json
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\8_arrays_e_listas\ArraysAndListas\bin\Debug\net6.0\ArraysAndListas.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\8_arrays_e_listas\ArraysAndListas\bin\Debug\net6.0\ArraysAndListas.pdb
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\8_arrays_e_listas\ArraysAndListas\obj\Debug\net6.0\ArraysAndListas.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\8_arrays_e_listas\ArraysAndListas\obj\Debug\net6.0\ArraysAndListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\8_arrays_e_listas\ArraysAndListas\obj\Debug\net6.0\ArraysAndListas.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\8_arrays_e_listas\ArraysAndListas\obj\Debug\net6.0\ArraysAndListas.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\8_arrays_e_listas\ArraysAndListas\obj\Debug\net6.0\ArraysAndListas.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\8_arrays_e_listas\ArraysAndListas\obj\Debug\net6.0\ArraysAndListas.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\8_arrays_e_listas\ArraysAndListas\obj\Debug\net6.0\refint\ArraysAndListas.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\8_arrays_e_listas\ArraysAndListas\obj\Debug\net6.0\ArraysAndListas.pdb
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\8_arrays_e_listas\ArraysAndListas\obj\Debug\net6.0\ArraysAndListas.genruntimeconfig.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\8_arrays_e_listas\ArraysAndListas\obj\Debug\net6.0\ref\ArraysAndListas.dll

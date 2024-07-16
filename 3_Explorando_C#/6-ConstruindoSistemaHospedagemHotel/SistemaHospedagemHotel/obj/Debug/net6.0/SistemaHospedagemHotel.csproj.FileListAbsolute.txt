@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\6-ConstruindoSistemaHospedagemHotel\SistemaHospedagemHotel\bin\Debug\net6.0\SistemaHospedagemHotel.exe
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\6-ConstruindoSistemaHospedagemHotel\SistemaHospedagemHotel\bin\Debug\net6.0\SistemaHospedagemHotel.deps.json
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\6-ConstruindoSistemaHospedagemHotel\SistemaHospedagemHotel\bin\Debug\net6.0\SistemaHospedagemHotel.runtimeconfig.json
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\6-ConstruindoSistemaHospedagemHotel\SistemaHospedagemHotel\bin\Debug\net6.0\SistemaHospedagemHotel.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\6-ConstruindoSistemaHospedagemHotel\SistemaHospedagemHotel\bin\Debug\net6.0\SistemaHospedagemHotel.pdb
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\6-ConstruindoSistemaHospedagemHotel\SistemaHospedagemHotel\obj\Debug\net6.0\SistemaHospedagemHotel.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\6-ConstruindoSistemaHospedagemHotel\SistemaHospedagemHotel\obj\Debug\net6.0\SistemaHospedagemHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\6-ConstruindoSistemaHospedagemHotel\SistemaHospedagemHotel\obj\Debug\net6.0\SistemaHospedagemHotel.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\6-ConstruindoSistemaHospedagemHotel\SistemaHospedagemHotel\obj\Debug\net6.0\SistemaHospedagemHotel.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\6-ConstruindoSistemaHospedagemHotel\SistemaHospedagemHotel\obj\Debug\net6.0\SistemaHospedagemHotel.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\6-ConstruindoSistemaHospedagemHotel\SistemaHospedagemHotel\obj\Debug\net6.0\SistemaHospedagemHotel.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\6-ConstruindoSistemaHospedagemHotel\SistemaHospedagemHotel\obj\Debug\net6.0\refint\SistemaHospedagemHotel.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\6-ConstruindoSistemaHospedagemHotel\SistemaHospedagemHotel\obj\Debug\net6.0\SistemaHospedagemHotel.pdb
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\6-ConstruindoSistemaHospedagemHotel\SistemaHospedagemHotel\obj\Debug\net6.0\SistemaHospedagemHotel.genruntimeconfig.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\3_Explorando_C#\6-ConstruindoSistemaHospedagemHotel\SistemaHospedagemHotel\obj\Debug\net6.0\ref\SistemaHospedagemHotel.dll

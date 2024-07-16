@@ -1,0 +1,6 @@
+==> COMANDO PARA CRIAR ESTRUTURA DOTNET
+
+dotnet new console
+
+==> COMANDO PARA EXECUTAR EM DOTNET
+dotnet run

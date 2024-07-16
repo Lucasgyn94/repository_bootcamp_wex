@@ -1,0 +1,88 @@
+==> Modelo Cliente-Servidor
+O modelo cliente-servidor é uma estrutura de aplicação que distribui as tarefas e cargas de trabalho entre os fornecedores de um recurso ou serviço, designado como servidores, e os requerentes dos serviços, designados como clientes.
+
+==> Cloud Computing
+É o acesso sob demanda, via internet, a recursos de computação - aplicativos, servidores (físicos e virtuais), armazenamento de dados, ferramentas de desenvolvimento, recursos de rede e muito mais - hospedados em um data center remoto gerenciado por um provedor de serviços em cloud (Cloud Solution Provider). O CSP disponibilza esses recursos por uma assinatura mensal ou por um valor cobrado conforme o uso.
+
+==> Virtualização
+- utiliza software para criar uma camada de abstração sobre o hardware do computador, permitindo que os recursos de hardware de um único computador (processadores, memória, armazenamento, etc) sejam dividos em vários computadores virtuais.
+- VMWare
+
+==> Microserviços
+São uma abordagem arquitetônica e organizacional do desenvolvimento de software na qual o software consiste em pequenos serviços independentes que se comunicam usando APIs bem definidas. Esses serviços pertencem a pequenas equipes autossuficientes.
+
+As arquiteturas de microsserviços facilitam a escalabilidade e agilizam o desenvolvimento de aplicativos, habilitando a inovação e acelerando o tempo de introdução de novos recursos no mercado.
+
+Quando quebramos uma aplicação monolítica em várias pequenas partes, conseguimos escala-las de forma separada. Supondo que um serviço de autentiicação seja chamado várias vezes durante a sessão de um usuário, com certeza o stress sobre ele é maior.
+
+==> Container
+São uma tecnologia usada para reunir um aplicativo e todos os seus arquivos necessários em um ambiente de tempo de execução. Como uma unidade, o contêiner pode ser facilmente movido e executado em qualquer sistema operacional, em qualquer contexto.
+
+==> Docker
+Com Docker, é possível lidar com os containers como se fosse máquinas virtuais modulares e extremamente leves. Além disso, os containers oferecem maior flexibilidade para você criar, implantar, copiar e migrar um container de um ambiente para outro. Isso otimiza as aplicações em nuvem (privada e pública)
+
+
+==> LISTA DE COMANDOS
+--> Executando um contêiner
+
+docker pull ubuntu
+docker run ubuntu
+docker run ubuntu sleep 10
+docker run ubuntu sleep 1500
+docker stop [id]
+docker run --help
+docker run -it ubuntu
+
+--> Executando aplicações no contêiner
+docker run -dti  ubuntu 
+docker exec -it [id ou nome]  /bin/bash
+
+--> Excluindo e nomeando contêineres
+docker stop [id]
+docker rm [id]
+docker rmi [imagem]
+
+docker run -dti --name Ubuntu-A ubuntu
+
+--> Copiando arquivos para o contêiner
+docker exec -ti Ubuntu-A /bin/bash
+docker exec Ubuntu-A mkdir /destino/
+docker exec Ubuntu-A mkdir ls -l /
+nano Arquivo.txt
+docker cp arquivo.txt Ubuntu-A:/aula/
+
+--> Copiando arquivos do container
+docker cp Ubuntu-A:/destino/Meuzip.zip  Zipcopia.zip
+
+--> Criando um contêiner do MySQL
+
+--> # docker pull mysql
+ 
+# docker run -e MYSQL_ROOT_PASSWORD=Senha123 --name mysql-A -d -p 3306:3306 mysql
+
+# docker exec -it mysql-A bash
+
+# mysql -u root -p --protocol=tcp
+
+
+CREATE DATABASE aula;
+show databases;
+
+# docker inspect mysql-A
+
+# mysql -u root -p --protocol=tcp
+# docker pull mysql
+ 
+# docker run -e MYSQL_ROOT_PASSWORD=Senha123 --name mysql-A -d -p 3306:3306 mysql
+
+# docker exec -it mysql-A bash
+
+# mysql -u root -p --protocol=tcp
+
+
+CREATE DATABASE aula;
+show databases;
+
+# docker inspect mysql-A
+
+# mysql -u root -p --protocol=tcp

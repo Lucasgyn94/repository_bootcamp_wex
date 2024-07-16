@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\9_operador_condicional\bin\Debug\net6.0\9_operador_condicional.exe
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\9_operador_condicional\bin\Debug\net6.0\9_operador_condicional.deps.json
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\9_operador_condicional\bin\Debug\net6.0\9_operador_condicional.runtimeconfig.json
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\9_operador_condicional\bin\Debug\net6.0\9_operador_condicional.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\9_operador_condicional\bin\Debug\net6.0\9_operador_condicional.pdb
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\9_operador_condicional\obj\Debug\net6.0\9_operador_condicional.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\9_operador_condicional\obj\Debug\net6.0\9_operador_condicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\9_operador_condicional\obj\Debug\net6.0\9_operador_condicional.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\9_operador_condicional\obj\Debug\net6.0\9_operador_condicional.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\9_operador_condicional\obj\Debug\net6.0\9_operador_condicional.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\9_operador_condicional\obj\Debug\net6.0\9_operador_condicional.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\9_operador_condicional\obj\Debug\net6.0\refint\9_operador_condicional.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\9_operador_condicional\obj\Debug\net6.0\9_operador_condicional.pdb
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\9_operador_condicional\obj\Debug\net6.0\9_operador_condicional.genruntimeconfig.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\9_operador_condicional\obj\Debug\net6.0\ref\9_operador_condicional.dll

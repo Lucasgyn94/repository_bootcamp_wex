@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\10_operador_if_aninhado\bin\Debug\net6.0\10_operador_if_aninhado.exe
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\10_operador_if_aninhado\bin\Debug\net6.0\10_operador_if_aninhado.deps.json
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\10_operador_if_aninhado\bin\Debug\net6.0\10_operador_if_aninhado.runtimeconfig.json
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\10_operador_if_aninhado\bin\Debug\net6.0\10_operador_if_aninhado.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\10_operador_if_aninhado\bin\Debug\net6.0\10_operador_if_aninhado.pdb
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\10_operador_if_aninhado\obj\Debug\net6.0\10_operador_if_aninhado.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\10_operador_if_aninhado\obj\Debug\net6.0\10_operador_if_aninhado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\10_operador_if_aninhado\obj\Debug\net6.0\10_operador_if_aninhado.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\10_operador_if_aninhado\obj\Debug\net6.0\10_operador_if_aninhado.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\10_operador_if_aninhado\obj\Debug\net6.0\10_operador_if_aninhado.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\10_operador_if_aninhado\obj\Debug\net6.0\10_operador_if_aninhado.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\10_operador_if_aninhado\obj\Debug\net6.0\refint\10_operador_if_aninhado.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\10_operador_if_aninhado\obj\Debug\net6.0\10_operador_if_aninhado.pdb
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\10_operador_if_aninhado\obj\Debug\net6.0\10_operador_if_aninhado.genruntimeconfig.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\4_tipos_de_operadores\10_operador_if_aninhado\obj\Debug\net6.0\ref\10_operador_if_aninhado.dll

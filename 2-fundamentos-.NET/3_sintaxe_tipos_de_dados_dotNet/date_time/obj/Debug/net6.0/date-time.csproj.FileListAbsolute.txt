@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\3-sintaxe-tipos-de-dados-dotNet\date-time\bin\Debug\net6.0\date-time.exe
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\3-sintaxe-tipos-de-dados-dotNet\date-time\bin\Debug\net6.0\date-time.deps.json
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\3-sintaxe-tipos-de-dados-dotNet\date-time\bin\Debug\net6.0\date-time.runtimeconfig.json
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\3-sintaxe-tipos-de-dados-dotNet\date-time\bin\Debug\net6.0\date-time.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\3-sintaxe-tipos-de-dados-dotNet\date-time\bin\Debug\net6.0\date-time.pdb
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\3-sintaxe-tipos-de-dados-dotNet\date-time\obj\Debug\net6.0\date-time.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\3-sintaxe-tipos-de-dados-dotNet\date-time\obj\Debug\net6.0\date-time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\3-sintaxe-tipos-de-dados-dotNet\date-time\obj\Debug\net6.0\date-time.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\3-sintaxe-tipos-de-dados-dotNet\date-time\obj\Debug\net6.0\date-time.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\3-sintaxe-tipos-de-dados-dotNet\date-time\obj\Debug\net6.0\date-time.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\3-sintaxe-tipos-de-dados-dotNet\date-time\obj\Debug\net6.0\date-time.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\3-sintaxe-tipos-de-dados-dotNet\date-time\obj\Debug\net6.0\refint\date-time.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\3-sintaxe-tipos-de-dados-dotNet\date-time\obj\Debug\net6.0\date-time.pdb
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\3-sintaxe-tipos-de-dados-dotNet\date-time\obj\Debug\net6.0\date-time.genruntimeconfig.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\3-sintaxe-tipos-de-dados-dotNet\date-time\obj\Debug\net6.0\ref\date-time.dll

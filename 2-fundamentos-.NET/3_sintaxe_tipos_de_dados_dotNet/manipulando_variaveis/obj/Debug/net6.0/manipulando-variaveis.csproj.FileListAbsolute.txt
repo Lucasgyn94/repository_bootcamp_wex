@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\3-sintaxe-tipos-de-dados-dotNet\manipulando-variaveis\bin\Debug\net6.0\manipulando-variaveis.exe
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\3-sintaxe-tipos-de-dados-dotNet\manipulando-variaveis\bin\Debug\net6.0\manipulando-variaveis.deps.json
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\3-sintaxe-tipos-de-dados-dotNet\manipulando-variaveis\bin\Debug\net6.0\manipulando-variaveis.runtimeconfig.json
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\3-sintaxe-tipos-de-dados-dotNet\manipulando-variaveis\bin\Debug\net6.0\manipulando-variaveis.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\3-sintaxe-tipos-de-dados-dotNet\manipulando-variaveis\bin\Debug\net6.0\manipulando-variaveis.pdb
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\3-sintaxe-tipos-de-dados-dotNet\manipulando-variaveis\obj\Debug\net6.0\manipulando-variaveis.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\3-sintaxe-tipos-de-dados-dotNet\manipulando-variaveis\obj\Debug\net6.0\manipulando-variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\3-sintaxe-tipos-de-dados-dotNet\manipulando-variaveis\obj\Debug\net6.0\manipulando-variaveis.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\3-sintaxe-tipos-de-dados-dotNet\manipulando-variaveis\obj\Debug\net6.0\manipulando-variaveis.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\3-sintaxe-tipos-de-dados-dotNet\manipulando-variaveis\obj\Debug\net6.0\manipulando-variaveis.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\3-sintaxe-tipos-de-dados-dotNet\manipulando-variaveis\obj\Debug\net6.0\manipulando-variaveis.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\3-sintaxe-tipos-de-dados-dotNet\manipulando-variaveis\obj\Debug\net6.0\refint\manipulando-variaveis.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\3-sintaxe-tipos-de-dados-dotNet\manipulando-variaveis\obj\Debug\net6.0\manipulando-variaveis.pdb
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\3-sintaxe-tipos-de-dados-dotNet\manipulando-variaveis\obj\Debug\net6.0\manipulando-variaveis.genruntimeconfig.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\3-sintaxe-tipos-de-dados-dotNet\manipulando-variaveis\obj\Debug\net6.0\ref\manipulando-variaveis.dll

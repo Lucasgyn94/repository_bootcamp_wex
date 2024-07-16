@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\6_estruturas_repeticao_dotnet\estruturas_repeticao\bin\Debug\net6.0\estruturas_repeticao.exe
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\6_estruturas_repeticao_dotnet\estruturas_repeticao\bin\Debug\net6.0\estruturas_repeticao.deps.json
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\6_estruturas_repeticao_dotnet\estruturas_repeticao\bin\Debug\net6.0\estruturas_repeticao.runtimeconfig.json
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\6_estruturas_repeticao_dotnet\estruturas_repeticao\bin\Debug\net6.0\estruturas_repeticao.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\6_estruturas_repeticao_dotnet\estruturas_repeticao\bin\Debug\net6.0\estruturas_repeticao.pdb
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\6_estruturas_repeticao_dotnet\estruturas_repeticao\obj\Debug\net6.0\estruturas_repeticao.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\6_estruturas_repeticao_dotnet\estruturas_repeticao\obj\Debug\net6.0\estruturas_repeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\6_estruturas_repeticao_dotnet\estruturas_repeticao\obj\Debug\net6.0\estruturas_repeticao.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\6_estruturas_repeticao_dotnet\estruturas_repeticao\obj\Debug\net6.0\estruturas_repeticao.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\6_estruturas_repeticao_dotnet\estruturas_repeticao\obj\Debug\net6.0\estruturas_repeticao.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\6_estruturas_repeticao_dotnet\estruturas_repeticao\obj\Debug\net6.0\estruturas_repeticao.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\6_estruturas_repeticao_dotnet\estruturas_repeticao\obj\Debug\net6.0\refint\estruturas_repeticao.dll
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\6_estruturas_repeticao_dotnet\estruturas_repeticao\obj\Debug\net6.0\estruturas_repeticao.pdb
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\6_estruturas_repeticao_dotnet\estruturas_repeticao\obj\Debug\net6.0\estruturas_repeticao.genruntimeconfig.cache
+C:\Users\Admin\Desktop\DigitalOne\11-bootcamp_wex\2-fundamentos-.NET\6_estruturas_repeticao_dotnet\estruturas_repeticao\obj\Debug\net6.0\ref\estruturas_repeticao.dll

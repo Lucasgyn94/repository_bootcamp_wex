@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "12-operadores_logicos_or/1.0.0": {
+        "runtime": {
+          "12-operadores_logicos_or.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "12-operadores_logicos_or/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

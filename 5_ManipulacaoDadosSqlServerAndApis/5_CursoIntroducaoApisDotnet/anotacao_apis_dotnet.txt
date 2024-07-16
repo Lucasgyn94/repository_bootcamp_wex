@@ -1,0 +1,9 @@
+==> API
+* Application Programmin Interface é uma forma de comunicação entre computadores ou programas de computadores.
+
+* É um software que fornece informações para outro software.
+
+==> Controller
+Classe que vai agrupar as nossas requisições http e vai disponibolizar os endpoints.
+
+
